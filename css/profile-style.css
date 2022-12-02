@@ -67,6 +67,11 @@ a:hover {
   background-color: #676767;
 }
 
+th, td {
+  padding-left: 150px;
+}
+
+
 /*
   Welcome section
 */
@@ -103,7 +108,7 @@ a:hover {
 }
 
 #tmContact {
-  min-height: 1197px;
+  min-height: 200px;
 }
 
 .tm-welcome-container {
@@ -231,8 +236,8 @@ p {
 
 .tm-contact-item-icon {
   margin-bottom: 45px;
-  width: 10%;
-  height: 12%;
+  width: 20%;
+  height: 24%;
   display: flex;
   align-items: center;
   justify-content: center;
