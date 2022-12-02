@@ -81,7 +81,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 5px;
+  padding: 20px;
 }
 
 
@@ -248,7 +248,7 @@ p {
 }
 
 .tm-contact-item-icon2 {
-  margin-bottom: 45px;
+  
   width: 10%;
   height: 12%;
   display: flex;
@@ -257,6 +257,7 @@ p {
 }
 
 .tm-contact-item-icon {
+  margin-bottom: 15px;
   width: 10%;
   height: 12%;
 }
